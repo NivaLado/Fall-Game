@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85957300286d97440a6170af55a42d05, type: 3}
+  m_Name: SecondItem
+  m_EditorClassIdentifier: 
+  name: Cone
+  icon: {fileID: 21300002, guid: 28b41fef228d6814f90e541deaf9f262, type: 3}
+  buyIcon: {fileID: 21300014, guid: 28b41fef228d6814f90e541deaf9f262, type: 3}
+  prefab: {fileID: 1251790827092706, guid: a71029e937f90d24d9ce810cc4087a1d, type: 2}
+  skinIndex: 1
+  price: 10
